@@ -1,4 +1,4 @@
-package com.poo.exerciciospoo.exercicioslistas.lista3;
+package com.poo.exerciciospoo.exercicioslistas.lista3Revisao;
 
 import java.util.Scanner;
 
